@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0441-arranging-coins) |
 | [1095-find-in-mountain-array](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/1095-find-in-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
