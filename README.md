@@ -30,4 +30,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0441-arranging-coins) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
