@@ -10,7 +10,7 @@ class Solution {
                 // Mini at Right side
                 low = mid + 1;
             } else {
-                // Minimum at the left side
+                
                 high = mid;
             }
         }
