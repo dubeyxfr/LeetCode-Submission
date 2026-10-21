@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
