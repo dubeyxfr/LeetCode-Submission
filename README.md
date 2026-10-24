@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0441-arranging-coins) |
+| [2409-count-days-spent-together](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/dubeyxfr/LeetCode-Submission/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
